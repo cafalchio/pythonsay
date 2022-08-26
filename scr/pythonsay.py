@@ -6,10 +6,10 @@ def main():
     """Main function"""
     
     parser = argparse.ArgumentParser()
-    parser.add_argument("-c", "--cow", help="Print a cow", action="store_true")
-    parser.add_argument("-py", "--python", help="Print a python", action="store_true")
-    parser.add_argument("-pb", "--big", help="Print a big python", action="store_true", default=False)
-    parser.add_argument("phrase", help="Print a phrase", nargs="?")
+    parser.add_argument("-c", "--cow", help="print a cow", action="store_true")
+    parser.add_argument("-py", "--python", help="print a python", action="store_true")
+    parser.add_argument("-pb", "--big", help="print a big python", action="store_true", default=False)
+    parser.add_argument("phrase", help="print a phrase", nargs="?")
     ## Read arguments from the command line
     args = parser.parse_args()
     if args.cow:

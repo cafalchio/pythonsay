@@ -11,9 +11,9 @@ Simple Python Cowsay implementation.
 ### Arguments
 
 - -h, --help show this help message and exit
-- -c, --cow Print a cow
-- -py, --python Print a python
-- -pb, --big Print a big python
+- -c, --cow print a cow
+- -py, --python print a python
+- -pb, --big print a big python
 
 **Examples:**
 
