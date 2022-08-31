@@ -69,7 +69,7 @@ Simple Python Cowsay implementation.
 
 
 
-                Art and idea by:  Tony Monroe
+                Art by:  Tony Monroe
 
 ## About Cowsay
 
