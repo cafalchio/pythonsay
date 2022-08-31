@@ -27,6 +27,8 @@ Simple Python Cowsay implementation.
                 U  ||----w |
                    ||     ||
 
+
+
     python pythonsay.py -py "Hello World"
 
 
@@ -44,6 +46,10 @@ Simple Python Cowsay implementation.
                           /     /                       \\
                         /     /                         \ \
 
+
+
+
+    
     python pythonsay.py -pb "Hello World!"
 
     < Hello World! >
