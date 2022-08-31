@@ -47,8 +47,6 @@ Simple Python Cowsay implementation.
                         /     /                         \ \
 
 
-
-
     
     python pythonsay.py -pb "Hello World!"
 
